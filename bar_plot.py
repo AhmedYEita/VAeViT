@@ -1,4 +1,4 @@
-# Created on Mon Aug 21 15:15:00 2023 - by *******************
+# Created on Mon Aug 21 15:15:00 2023 - by Ahmed Yasser Eita
 # from "https://matplotlib.org/stable/gallery/lines_bars_and_markers/barchart.html#sphx-glr-gallery-lines-bars-and-markers-barchart-py"
 
 import matplotlib.pyplot as plt
